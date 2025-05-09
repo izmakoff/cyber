@@ -1,6 +1,0 @@
-entity drone_controller.KlogEntity
-
-components
-{
-    klog : kl.Klog
-}
